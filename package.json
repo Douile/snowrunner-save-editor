@@ -1,0 +1,16 @@
+{
+  "name": "snowrunner-save-editor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^8.2.5"
+  },
+  "dependencies": {}
+}

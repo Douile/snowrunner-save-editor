@@ -1,0 +1,4 @@
+# save files
+*.dat
+SnowRunner/
+node_modules/

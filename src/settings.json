@@ -1,0 +1,17 @@
+[
+  {
+    "name": "money",
+    "display_name": "Money",
+    "path": "persistentProfileData/money"
+  },
+  {
+    "name": "xp",
+    "display_name": "Experience",
+    "path": "persistentProfileData/experience"
+  },
+  {
+    "name": "rank",
+    "display_name": "Rank",
+    "path": "persistentProfileData/rank"
+  }
+]
